@@ -23,7 +23,7 @@ description: > # this means to ignore newlines until "baseurl:"
   all things maker, and meetups.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: djmattik
+twitter_username: mattallemand
 github_username:  undeadzant
 
 # Build settings
