@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Time is Now!"
+title:  "Getting the Blog Up and Running and a MEAN Stack demo"
 date:   2019-05-06 18:37:00 -0500
 categories: jekyll update
 ---
