@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Time is Now!"
-date:   2019-12-01 18:37:00 -0500
+date:   2018-12-01 18:37:00 -0500
 categories: jekyll update
 ---
 Finally getting around to getting this blog up and running. I have some pretty exciting things coming up. I graduate next week (FINALLY!!!). After going to school and working full time, a lot of my side projects and readings have fallen to the wayside. With graduation upcoming, I plan on diving back in to my side projects, building up my portfolio, reading a few books I have had sitting on the shelf, but most importantly, have fun!
