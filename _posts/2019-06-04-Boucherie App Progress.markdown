@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Boucherie App - Authentication Pt. 1"
-date:   2019-06-03 18:37:00 -0500
+date:   2019-06-04 18:37:00 -0500
 categories: projects
 ---
 
